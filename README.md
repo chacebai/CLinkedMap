@@ -1,5 +1,6 @@
 ## Introduction
-A C++ header-only LinkedMap is a map that maintains insertion order, designed based on Java LinkedHashMap
+A C++ header-only LinkedMap is a map that maintains insertion order, designed based on Java LinkedHashMap.
+Keywords: linkmap linkhashmap linkedmap linkedhashmap clinkmap clinkhashmap clinkedmap clinkedhashmap.
 
 ## How to use
 Just include the header file in your project
