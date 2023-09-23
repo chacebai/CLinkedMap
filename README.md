@@ -53,10 +53,10 @@ int main()
 }
 ```
 
-## compile
+## Compile
 `g++ helloworld.cpp  -o helloworld -g -static -Wall -std=c++11`
 
-## run
+## Run
 `./helloworld`
 ```
 original order: 2 1 4 5 3
